@@ -26,7 +26,8 @@ src/
 ├── App.css
 ├── App.jsx                  # Componente principal de la aplicación
 ├── index.css
-└── main.jsx                 # Punto de entrada de la aplicación```
+└── main.jsx                 # Punto de entrada de la aplicación
+```
 
 ## 🛠️ Configuración y Ejecución Local
 
