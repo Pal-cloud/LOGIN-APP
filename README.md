@@ -35,7 +35,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 
 ### 1. Clona el repositorio
 
-git clone
+git clone https://github.com/Pal-cloud/LOGIN-APP.git
 
 ### 2. Instala las dependencias
 
