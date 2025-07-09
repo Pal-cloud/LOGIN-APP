@@ -42,6 +42,7 @@ git clone https://github.com/Pal-cloud/LOGIN-APP.git
 Una vez dentro del directorio del proyecto, instala todas las dependencias necesarias:
 
 npm install
+npm run dev
 
 ### 3. Inicia el servidor de desarrollo:
 
